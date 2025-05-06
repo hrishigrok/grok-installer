@@ -1,0 +1,12 @@
+{
+  "name": "Grok ESP32 Firmware ",
+  "version": "V19",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        { "path": "firmware/Grok-firmware-V19.bin", "offset": 4096 }
+      ]
+    }
+  ]
+}
