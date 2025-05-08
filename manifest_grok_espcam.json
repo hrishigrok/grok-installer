@@ -1,0 +1,12 @@
+{
+  "name": "Grok ESP32 Auto Install",
+  "version": "V3",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        { "path": "firmware/Grok-firmware-auto-V3.bin", "offset": 4096 }
+      ]
+    }
+  ]
+}
