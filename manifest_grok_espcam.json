@@ -1,11 +1,11 @@
 {
-  "name": "Grok ESP32 Auto Install",
-  "version": "V3",
+  "name": "Grok ESP32 CAM",
+  "version": "V1",
   "builds": [
     {
       "chipFamily": "ESP32",
       "parts": [
-        { "path": "firmware/Grok-firmware-auto-V3.bin", "offset": 4096 }
+        { "path": "firmware/espcam_image_upload_V2_Encryption.ino.bin", "offset": 4096 }
       ]
     }
   ]
