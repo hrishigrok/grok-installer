@@ -3,7 +3,7 @@
   "version": "V2",
   "builds": [
     {
-      "chipFamily": "ESP32",
+      "chipFamily": "ESP32-S3",
       "parts": [
         { "path": "firmware/espcam_image_upload_V2_Encryption_V2.ino.bin", "offset": 4096 }
       ]
