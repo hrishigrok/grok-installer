@@ -1,6 +1,6 @@
 {
   "name": "Grok ESP32 CAM",
-  "version": "V1",
+  "version": "V2",
   "builds": [
     {
       "chipFamily": "ESP32",
